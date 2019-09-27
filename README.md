@@ -1,5 +1,5 @@
 # Kraan
-Twitter like web application developed with @mcanal8 & Lucía Gasión in our third year of Computer Science Degree at Universitat Pompeu Fabra.  
+Twitter like web application developed with @oscarfont & Lucía Gasión in our third year of Computer Science Degree at Universitat Pompeu Fabra.  
 Course name: Web Applications Engineering.  
 Language: Java.  
 IDE: Eclipse.  
